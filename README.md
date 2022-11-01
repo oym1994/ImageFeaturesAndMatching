@@ -7,7 +7,9 @@ Design an abstract class where multiple image features, descriptors and matching
 and deep learning based methods, for some visual feature based tasks, such as visual slam, AR/VR and object tracking.
 
 Supportted image features: BRISK, ORB, AKAZE, SIFT, SURF, CONTOUR, SuperPoint (with TensorRT accelerated) 
+
 Supportted descriptor types: BRIEF, ORB, FREAK, AKAZE, SIFT, BRISK, SURF, SuperPoint (with TensorRT accelerated) 
+
 Supported matching methods: BF_HAMMING, BF_L2, SuperGlue (with TensorRT accelerated) 
 
 ## Dependencies for Running Locally
